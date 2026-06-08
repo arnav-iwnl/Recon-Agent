@@ -1,6 +1,6 @@
 # Recon Agent
 
-A multi-agent AI system designed to conduct deep internet research, synthesize findings, and write comprehensive reports autonomously. Built for the Fenrir Security engineering challenge.
+A multi-agent AI system designed to conduct deep internet research, synthesize findings, and write comprehensive reports autonomously. 
 
 ## Setup Instructions
 
